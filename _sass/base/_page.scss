@@ -4,6 +4,10 @@ body {
   @include body-font;
 }
 
+.modal-body img {
+  max-width: 100%;
+}
+
 p {
   line-height: 1.75;
 }
