@@ -1,0 +1,93 @@
+header:
+    title: Добро пожаловать ! Доступный и надежный
+    text: Джиппинг в краснодарском крае и адыгее
+    button: Подробнее
+    buttonlink: "#services"
+
+services:
+    title: "Наши услуги"
+    text: "Незабываемые экскурсии в горы на внедорожнике"
+    section: services
+    list:
+      - title: "Групповые экскурсии"
+        desc: "группы до 6 человек с выездом из вашего отеля"
+        icon: fas fa-users #find more at https://fontawesome.com/icons
+      - title: "Частные экскурсии"
+        desc: "Возможность путешествий в одиночку или парой"
+        icon: fas fa-user
+      - title: "Составление экскурсионной программы"
+        desc: "Поездка по самым красивым местам - мы можем составить для вас маршрут"
+        icon: fas fa-map-marked
+
+portfolio:
+    title: "География"
+    text: "Вся территория краснодарского края и адыгеи"
+    section: portfolio
+    closebutton: "Закрыть"
+
+
+timeline:
+    title: "Когда ?"
+    text: "Мы работаем круглый год - каждое время года имеет свое очарование"
+    section: timeline
+    events:
+      - title: "Весна"
+        year: ""
+        desc: ""
+        image: assets/img/timeline/vesna.jpg
+        alt: весна
+        align: left
+      - title: "Лето"
+        desc: ""
+        image: assets/img/timeline/leto.jpg
+        alt: лето
+        align: right
+      - title: "Осень"
+        desc: "буйство красок - красные, рыжие, зеленые - все цвета смешиваются и дают потрясающей красоты пейзажи, особенно с орлиной полки и плато Лаго-Наки. Лучшее время для посещения - конец сентября и начало октября"
+        image: assets/img/timeline/osen.jpg
+        alt: осень
+        #align: #default is left
+      - title: "Зима"
+        desc: ""
+        image: assets/img/timeline/zima.jpg
+        alt: зима
+        align: right
+    end: "Ждем вас в любое время года !"
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+team:
+    title: "Тысячи довольных клиентов с 2013 года"
+    text: ""
+    subtext:
+    section: team
+    people:
+      - image: assets/img/team/client-1.jpg
+      - image: assets/img/team/client-2.jpg
+      - image: assets/img/team/client-3.jpg
+      - image: assets/img/team/client-4.jpg
+      - image: assets/img/team/client-5.jpg
+      - image: assets/img/team/client-6.jpg
+      - image: assets/img/team/client-7.jpg
+      - image: assets/img/team/client-8.jpg
+      - image: assets/img/team/client-9.jpg
+      - image: assets/img/team/client-10.jpg
+      - image: assets/img/team/client-11.jpg
+      - image: assets/img/team/client-12.jpg
+
+contact:
+    title: "Свяжитесь с нами"
+    text: "Пожалуйста оставьте свои контактные данные либо свяжитесь с нами по телефону: +79676738921 - Роман"
+    section: contact
+
+footer:
+#    legal: "Privacy Policy"
+    social:
+      - url: https://www.instagram.com/romanviktorovih____/
+        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}

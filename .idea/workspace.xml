@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce6902b2-238e-4d42-ad69-39a6dea4f8fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1gArgXHrsMPP3Q4aJ229CJsiyAk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/team" />
+      <recent name="$PROJECT_DIR$/assets/img/clients" />
+      <recent name="$PROJECT_DIR$/assets/img/portfolio" />
+      <recent name="$PROJECT_DIR$/_portfolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce6902b2-238e-4d42-ad69-39a6dea4f8fa" name="Default Changelist" comment="" />
+      <created>1597568349310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597568349310</updated>
+      <workItem from="1597568350414" duration="323000" />
+      <workItem from="1597568834518" duration="2478000" />
+      <workItem from="1597573017934" duration="1434000" />
+      <workItem from="1597574861704" duration="670000" />
+      <workItem from="1597575646230" duration="390000" />
+      <workItem from="1597576159186" duration="8350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="97" width="761" height="646" key="find.popup" timestamp="1597605950851">
+      <screen x="0" y="0" width="1344" height="840" />
+    </state>
+    <state x="291" y="97" width="761" height="646" key="find.popup/0.0.1344.840@0.0.1344.840" timestamp="1597605950851" />
+    <state x="253" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1597582044572">
+      <screen x="0" y="0" width="1344" height="840" />
+    </state>
+    <state x="253" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1344.840@0.0.1344.840" timestamp="1597582044572" />
+  </component>
+</project>
